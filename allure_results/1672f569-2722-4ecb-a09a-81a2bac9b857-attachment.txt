@@ -1,0 +1,2 @@
+Ошибка assert 200 == 403
+ +  where 200 = <Response [200]>.status_code
